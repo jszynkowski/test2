@@ -10,3 +10,5 @@ Here is an unordered list
 * item
 
 This is all I need to know for now apparently
+
+editting this file in R Studio
