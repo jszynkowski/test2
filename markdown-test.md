@@ -4,9 +4,9 @@
 
 
 Here is an unordered list
-*item
-*item
-*item
-*item
+* item
+* item
+* item
+* item
 
 This is all I need to know for now apparently
